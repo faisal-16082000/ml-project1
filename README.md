@@ -1,2 +1,2 @@
-# ml-project1
+# ml-project
 This is my first machine learning project.
